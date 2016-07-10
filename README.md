@@ -19,19 +19,19 @@ My Minecraft server is located at
 
 [Initial Setup](https://github.com/teachthenet/Megsss/blob/master/setup.md): Get minecraft running, get connected to the server.
 
-[Lesson 1](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/lesson_1.md): Teleport your character to a point you define in code.
+[Lesson 1](https://github.com/teachthenet/Megsss/blob/master/lessons/1_intro_to_python.md): Intro to python
 
-[Lesson 2](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/lesson_2.md): Make a path of something (flowers, lava, fire) follow behind you while you walk. 
+[Lesson 2](https://github.com/teachthenet/Megsss/blob/master/lessons/2_intro_to_minecraft.md): Intro to minecraft + python
 
-[Lesson 3](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/lesson_3.md): Give your character the ability to walk on water (by turning water below your character into ice).
+[Lesson 3](https://github.com/teachthenet/Megsss/blob/master/lessons/3_code_a_basic_building.md): Coding a building
 
-[Lesson 4](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/lesson_4.md): Create a building
+[Lesson 4](https://github.com/teachthenet/Megsss/blob/master/lessons/4_code_a_pyramid.md): Coding a pyramid
 
-[Lesson 5](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/lesson_5.md): Create a pyramid
+[Lesson 5](https://github.com/teachthenet/Megsss/blob/master/lessons/5_infinite_while_loop.md): While loops + trailing things behind you
 
-[Lesson 6](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/lesson_6.md): Use an algorithm to construct the pyramid by analyzing the pattern you discovered in lesson 5!
+[Lesson 6](https://github.com/teachthenet/Megsss/blob/master/lessons/6_if_statements_rawinput.md): If statements + building toolkit
 
-[Lesson 7](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/lesson_7.md): Create a magic system that listens to Minecraft chat, and executes your pre-defined spells!
+[Lesson 7](https://github.com/teachthenet/Megsss/blob/master/lessons/7_for_loops_and_polling_chat.md): Polling chat logs, chat bots, and advanced building toolkit
 
 ### Minecraft Docs
 - [pi version](http://www.stuffaboutcode.com/p/minecraft-api-reference.html) Has most of the basics of the python api
