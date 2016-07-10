@@ -77,3 +77,4 @@ mystery_block_id = 0
 mc.setBlocks(x+1, y+1, z+1, x2-1, y2-1, z2-1, mystery_block_id)
 ```
 - Make it into a swimming pool
+- If you make the swimming pool in the sky, you can simulate rain by removing and replacing a block in the bottom of it every 2 seconds.
