@@ -1,4 +1,4 @@
-## TeachCraft 
+## TeachCraft - Megsss edition
 
 A series of lessons used to teach Megsss students the fundamentals of programming!
 
