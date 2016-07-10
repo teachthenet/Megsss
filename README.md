@@ -15,9 +15,23 @@ My Minecraft server is located at
 199.96.85.3:25570
 ```
 
-### Setup
+### Lessons & Setup
 
-[Initial Setup](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/setup.md): Get minecraft running, get connected to the server.
+[Initial Setup](https://github.com/teachthenet/Megsss/blob/master/setup.md): Get minecraft running, get connected to the server.
+
+[Lesson 1](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/lesson_1.md): Teleport your character to a point you define in code.
+
+[Lesson 2](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/lesson_2.md): Make a path of something (flowers, lava, fire) follow behind you while you walk. 
+
+[Lesson 3](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/lesson_3.md): Give your character the ability to walk on water (by turning water below your character into ice).
+
+[Lesson 4](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/lesson_4.md): Create a building
+
+[Lesson 5](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/lesson_5.md): Create a pyramid
+
+[Lesson 6](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/lesson_6.md): Use an algorithm to construct the pyramid by analyzing the pattern you discovered in lesson 5!
+
+[Lesson 7](https://github.com/teachthenet/TeachCraft-Challenges/blob/master/lesson_7.md): Create a magic system that listens to Minecraft chat, and executes your pre-defined spells!
 
 ### Minecraft Docs
 - [pi version](http://www.stuffaboutcode.com/p/minecraft-api-reference.html) Has most of the basics of the python api
