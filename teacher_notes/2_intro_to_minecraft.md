@@ -74,10 +74,13 @@ Each time you edit the code, you will need save it and then re-run the script us
 - Figure out which of the three coordinates (x, y, or z) controls how high up you are in the air.
 - Review API reference sheet (link below), observe function .setBlock(x, y, z, block)
 - Use it to give us a block to stand on when we teleport.
-- Everyone choose a teleport location. This will be your "secret" location in the world where you will be building things. Share it with others if you'd like them to come build with you, or to just see what you've built. This is how you can protect yourself against griefing (think of it like a password)
 
+```
 some_block_id = 4
 mc.setBlock(x, y-1, z, some_block_id)
+```
+
+- Everyone choose a teleport location. This will be your "secret" location in the world where you will be building things. Share it with others if you'd like them to come build with you, or to just see what you've built. This is how you can protect yourself against griefing (think of it like a password)
 
 http://www.stuffaboutcode.com/p/minecraft-api-reference.html
 
