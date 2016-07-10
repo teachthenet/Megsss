@@ -24,9 +24,9 @@ x = pos.x
 y = pos.y
 z = pos.z
 
-x2 = x + 8 #Make it 8 blocks wide.
+x2 = x + 8 #Make it 9 blocks wide.
 # y2 = y 
-z2 = z + 8 #Make it 8 blocks long.
+z2 = z + 8 #Make it 9 blocks long.
 
 mc.setBlocks(x, y, z, x2, y, z2, block)
 

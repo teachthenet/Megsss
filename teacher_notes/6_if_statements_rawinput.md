@@ -44,9 +44,9 @@ if user_command == "pillar":
     y = pos.y
     z = pos.z
     
-    x2 = x + 1 #Make it 1 block wide.
-    y2 = y + 8 #Make it 8 blocks high
-    z2 = z + 1 #Make it 1 block long.
+    x2 = x + 1 #Make it 2 blocks wide.
+    y2 = y + 8 #Make it 9 blocks high
+    z2 = z + 1 #Make it 2 blocks long.
     
     mc.setBlocks(x, y, z, x2, y2, z2, 4)
 if user_command == "building":
