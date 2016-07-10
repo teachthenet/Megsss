@@ -72,7 +72,11 @@ Each time you edit the code, you will need save it and then re-run the script us
 
 - Modify the script to go to a different x/y/z location.
 - Figure out which of the three coordinates (x, y, or z) controls how high up you are in the air.
-- Review API reference sheet to see what other functions are available to you, feel free to experiment with them.
+- Review API reference sheet (link below), observe function .setBlock(x, y, z, block)
+- Use it to give us a block to stand on when we teleport.
+
+some_block_id = 4
+mc.setBlock(x, y-1, z, some_block_id)
 
 http://www.stuffaboutcode.com/p/minecraft-api-reference.html
 
