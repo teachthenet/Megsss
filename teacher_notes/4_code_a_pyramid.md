@@ -25,10 +25,10 @@ y = pos.y
 z = pos.z
 
 x2 = x + 8 #Make it 8 blocks wide.
-y2 = y + 0 #Make it only one block high, so don't add anything here.
+# y2 = y 
 z2 = z + 8 #Make it 8 blocks long.
 
-mc.setBlocks(x, y, z, x2, y2, z2, block)
+mc.setBlocks(x, y, z, x2, y, z2, block)
 
 x = pos.x + 1
 y = pos.y + 1 
@@ -37,7 +37,7 @@ z = pos.z + 1
 x2 = x + 6 
 z2 = z + 6 
 
-mc.setBlocks(x, y, z, x2, y2, z2, block)
+mc.setBlocks(x, y, z, x2, y, z2, block)
 
 x = pos.x+2
 y = pos.y+2 
@@ -46,7 +46,7 @@ z = pos.z+2
 x2 = x + 4 
 z2 = z + 4 
 
-mc.setBlocks(x, y, z, x2, y2, z2, block)
+mc.setBlocks(x, y, z, x2, y, z2, block)
 
 x = pos.x + 3
 y = pos.y + 3
@@ -55,7 +55,7 @@ z = pos.z + 3
 x2 = x + 2
 z2 = z + 2 
 
-mc.setBlocks(x, y, z, x2, y2, z2, block)
+mc.setBlocks(x, y, z, x2, y, z2, block)
 
 x = pos.x + 4
 y = pos.y + 4
@@ -64,11 +64,11 @@ z = pos.z + 4
 x2 = x + 0
 z2 = z + 0 
 
-mc.setBlocks(x, y, z, x2, y2, z2, block)
+mc.setBlocks(x, y, z, x2, y, z2, block)
 
 ```
 
-######CHALLENGES FOR KIDS
-- Make the pyramid hollow inside
+######CHALLENGES 
+- Make the pyramid hollow inside (just talk it through, don't do it)
 - Make a house with a pyramid-like roof on top of it
 - Make code that builds a giant tree (using wood and leaf blocks)
