@@ -12,9 +12,11 @@ mc = minecraft.Minecraft.create(address="199.96.85.3", name="seanybob")
 ```
 The first 2 lines are similar to the previous lesson. Be sure to replace "seanybob" with your name!
 
+```
 # Hint: Instead of thinking of the pyramid as one building, think of every layer of the pyramid as a separate building that is only 1 block high.
 
 block = 24
+
 # This is the block id for sandstone, which is good for a pyramid. Swap it to a different block ID if you'd like from [here](http://minecraft-ids.grahamedgecombe.com/).
 
 #Get the player's current position so we can build the pyramid there.
@@ -64,6 +66,8 @@ x2 = x + 0
 z2 = z + 0 
 
 mc.setBlocks(x, y, z, x2, y2, z2, block)
+
+```
 
 ######CHALLENGES FOR KIDS
 - Make the pyramid hollow inside
