@@ -33,6 +33,8 @@ My Minecraft server is located at
 
 [Lesson 7](https://github.com/teachthenet/Megsss/blob/master/lessons/7_for_loops_and_polling_chat.md): Polling chat logs, chat bots, and advanced building toolkit
 
+[Lesson 8](https://github.com/teachthenet/Megsss/blob/master/lessons/8_pyramid_algorithm.md): Crafting our first algorithm, to be able to create a pyramid of any height instantly
+
 ### Minecraft Docs
 - [pi version](http://www.stuffaboutcode.com/p/minecraft-api-reference.html) Has most of the basics of the python api
 - [our version](https://github.com/zhuowei/RaspberryJuice) Has the additional things our python api supports, above and beyond the pi version
