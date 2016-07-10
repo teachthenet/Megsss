@@ -68,3 +68,4 @@ mc.setBlocks(x, y, z, x2, y2, z2, block)
 ######CHALLENGES FOR KIDS
 - Make the pyramid hollow inside
 - Make a house with a pyramid-like roof on top of it
+- Make code that builds a giant tree (using wood and leaf blocks)

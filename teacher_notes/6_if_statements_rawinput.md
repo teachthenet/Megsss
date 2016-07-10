@@ -64,3 +64,4 @@ while True:
 
 # Challenges
 - Use this to craft a building toolkit of particular things you want to build many of.
+- Consider adding a "buildtree" command, that will allow you to build a forest around you.
