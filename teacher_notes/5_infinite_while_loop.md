@@ -45,6 +45,8 @@ while True:
 How to use this with minecraft? Observe.
 
 ```
+import mcpi.minecraft as minecraft
+mc = minecraft.Minecraft.create(address="199.96.85.3", name="seanybob")
 while True:
     #Retrieve the current player's X, Y, and Z coordinates
     pos = mc.player.getPos()
