@@ -49,7 +49,7 @@ mc.player.setPos(x, y, z)
 
 The variables in the call get replaced, essentially turning into the values we stored in them earlier: 
 
-mc.player.setPos(10, 110, 12)
+mc.player.setPos(52, 52, -57)
 
 
 #### Terminal
