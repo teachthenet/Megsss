@@ -59,7 +59,7 @@ while True:
     mc.setBlock(x, y, z, block)
 ```
     
-A trail of flowers behind us! We can change this to be any block we want, of course. We could do water (to make a water slide), lava, tnt, or even railroad track to make a roller coaster. You guys can experiment with this soon.
+A trail of flowers behind us! We can change this to be any block we want, of course. We could do water (to make a water slide), lava, tnt, or even railroad track to make a roller coaster. You could even do the raw materials to build a snowman behind you.
 
 You can kill an infinite loop with control+c in your terminal/shell.
 
