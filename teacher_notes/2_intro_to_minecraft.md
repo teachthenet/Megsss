@@ -56,7 +56,7 @@ mc.player.setPos(52, 52, -57)
 
 To execute the script, in your terminal cd to the directory the script is located:
 ```shell
-cd ~/TeachCraft-Challenges
+cd ~/Megsss
 ```
 
 Then run the script like so:
