@@ -27,15 +27,15 @@ mc = minecraft.Minecraft.create(address="199.96.85.3", name="seanybob")
 -----------------
 
 ```python
-x = 10
-y = 110
-z = 12
+x = 52
+y = 52
+z = -57
 ```
 
 - Here we are creating 3 variables for later use.
-- In the variable named 'x', we are storing the number 10.
-- In the variable named 'y', we are storing the number 110.
-- In the variable named 'z', we are storing the number 12.
+- In the variable named 'x', we are storing the number 52.
+- In the variable named 'y', we are storing the number 52.
+- In the variable named 'z', we are storing the number -57.
 
 -----------------
 
