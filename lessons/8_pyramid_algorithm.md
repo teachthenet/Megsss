@@ -178,3 +178,5 @@ for i in range(size_of_pyramid):
     z2 = z + (size_of_pyramid*2) - 2 - (i*2)
     mc.setBlocks(x, y, z, x2, y, z2, block)
 ```
+
+- Can you modify the script to make a second, one block smaller pyramid of air inside the first pyramid (effectively making the pyramid hollow)?
