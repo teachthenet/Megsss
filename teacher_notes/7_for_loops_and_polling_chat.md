@@ -21,4 +21,16 @@ while True:
 
 This code will execute the code inside the while loop once for every chat message found in the minecraft chat post since the last time we looked. By sticking this in an infinite while loop, we can actually watch all messages posted in chat, forever!
 
-Let's rebuilt lesson 6 using this instead.
+
+#### Challenges
+- Let's rebuilt lesson 6 using this instead.
+- Make a chatbot! If someone says X, your bot should reply with Y. (Look for api call needed in docs to post to chat).
+- Limit it with if statement so only you can activate it, using these two items:
+```
+my_id = mc.getPlayerEntityId(my_player_name)
+```
+and
+```
+if chatpost.entityId == my_id:
+```
+- Add some more building commands to your bot, e.g. a pixel art guy
