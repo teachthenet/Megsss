@@ -1,3 +1,4 @@
+```python
 """
 This script does the following:
 - Take an image as input, and read it pixel by pixel.
@@ -12,11 +13,6 @@ Try to figure out how it takes an image as input, and change the image to someth
 NOTE! This script requires installing the Python library 'pillow' - instructions located here:
 https://pillow.readthedocs.org/en/latest/installation.html
 """
-
-import sys
-sys.path.append("../")
-sys.path.append("../../")
-
 import mcpi.minecraft as minecraft
 mc = minecraft.Minecraft.create(address="199.96.85.3", name="seanybob") #NOTE - replace "seanybob" with your name
 
@@ -111,3 +107,4 @@ for r in range(rows):
         rgb = rgb_im.getpixel((r, c))
         mc_block = getBlockFromColor(rgb)
         mc.setBlock(pos.x+r, pos.y, pos.z+c, mc_block[1])
+```
