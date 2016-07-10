@@ -44,6 +44,7 @@ while True:
 
 How to use this with minecraft? Observe.
 
+```
 while True:
     #Retrieve the current player's X, Y, and Z coordinates
     pos = mc.player.getPos()
@@ -54,6 +55,7 @@ while True:
     block = 38
     #Set the block at the x/y/z coordinates of the current player to the block id we chose above.
     mc.setBlock(x, y, z, block)
+```
     
 A trail of flowers behind us! We can change this to be any block we want, of course. We could do water (to make a water slide), lava, tnt, or even railroad track to make a roller coaster. You guys can experiment with this soon.
 
