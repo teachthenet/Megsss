@@ -24,6 +24,14 @@ print(my_favorite_number)
 
 ```
 original_number = raw_input("Pick a number: ")
+calc_number = original_number * 4
+print(calc_number)
+```
+
+What happened there? String multiplication! We have to cast it to an integer (number).
+
+```
+original_number = raw_input("Pick a number: ")
 original_number = int(original_number)
 
 calc_number = original_number * 2
