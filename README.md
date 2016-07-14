@@ -13,6 +13,8 @@ The Minecraft server is located at
 
 ### Setup
 
+Choose between Local setup, or Cloud-based setup with Nitrous Quickstart!
+
 [Local Setup](https://github.com/teachthenet/Megsss/blob/master/setup.md): Get minecraft running, get connected to the server.
 
 [![Cloud Setup with Nitrous Quickstart](https://nitrous-image-icons.s3.amazonaws.com/quickstart.svg)](https://www.nitrous.io/quickstart)
