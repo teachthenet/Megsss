@@ -11,9 +11,14 @@ The Minecraft server is located at
 199.96.85.3:25570
 ```
 
-### Lessons & Setup
+### Setup
 
-[Initial Setup](https://github.com/teachthenet/Megsss/blob/master/setup.md): Get minecraft running, get connected to the server.
+[Local Setup](https://github.com/teachthenet/Megsss/blob/master/setup.md): Get minecraft running, get connected to the server.
+
+[![Cloud Setup with Nitrous Quickstart](https://nitrous-image-icons.s3.amazonaws.com/quickstart.svg)](https://www.nitrous.io/quickstart)
+
+### Lessons
+
 
 [Lesson 1](https://github.com/teachthenet/Megsss/blob/master/lessons/1_intro_to_python.md): Intro to python
 
