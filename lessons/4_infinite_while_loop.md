@@ -1,6 +1,6 @@
 # Lesson 5 notes
 
-#### New Concepts
+### New Concepts
 
 Now for a new construct, an infinite while loop!
 
@@ -42,25 +42,32 @@ while True:
     time.sleep(1)
 ```
 
-How to use this with minecraft? Observe.
-
+### Flower Path in Minecraft
 ```
+import time
 import mcpi.minecraft as minecraft
 mc = minecraft.Minecraft.create(address="199.96.85.3", name="seanybob")
+
 while True:
-    #Retrieve the current player's X, Y, and Z coordinates
+
     pos = mc.player.getPos()
     x = pos.x
     y = pos.y
     z = pos.z
-    #This is the minecraft block ID of the flower block.
+    
     block = 38
-    #Set the block at the x/y/z coordinates of the current player to the block id we chose above.
+
     mc.setBlock(x, y, z, block)
+    time.sleep(0.1)
 ```
     
-A trail of flowers behind us! We can change this to be any block we want, of course. We could do water (to make a water slide), lava, tnt, or even railroad track to make a roller coaster. You could even do the raw materials to build a snowman behind you.
+A trail of flowers behind us! We can change this to be any block we want, of course. Let's change it to fire, block ID 51.
 
-You can kill an infinite loop with control+c in your terminal/shell.
+You can stop an infinite loop with control+c in your terminal/shell.
+
+#### CHALLENGE
+
+- Using the code above as a base, make a roller coaster! You will want to place Powered Rail, and also put redstone blocks underneath each power rail.
+
 
 

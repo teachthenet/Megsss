@@ -19,24 +19,32 @@ Choose between Local setup, or Cloud-based setup with Nitrous Quickstart!
 
 [![Cloud Setup with Nitrous Quickstart](https://nitrous-image-icons.s3.amazonaws.com/quickstart.svg)](https://www.nitrous.io/quickstart)
 
-### Lessons
+### Basic Lessons
 
 
 [Lesson 1](https://github.com/teachthenet/Megsss/blob/master/lessons/1_intro_to_python.md): Intro to python
 
-[Lesson 2](https://github.com/teachthenet/Megsss/blob/master/lessons/2_intro_to_minecraft.md): Intro to minecraft + python
+[Lesson 2](https://github.com/teachthenet/Megsss/blob/master/lessons/2_intro_to_minecraft.md): Teleportation
 
-[Lesson 3](https://github.com/teachthenet/Megsss/blob/master/lessons/3_code_a_basic_building.md): Coding a building
+[Lesson 3](https://github.com/teachthenet/Megsss/blob/master/lessons/3_code_a_basic_building.md): Rectangular Buildings
 
-[Lesson 4](https://github.com/teachthenet/Megsss/blob/master/lessons/4_code_a_pyramid.md): Coding a pyramid
+[Lesson 4](https://github.com/teachthenet/Megsss/blob/master/lessons/4_infinite_while_loop.md): Roller Coasters, Fire, and Flowers (while loops)
 
-[Lesson 5](https://github.com/teachthenet/Megsss/blob/master/lessons/5_infinite_while_loop.md): While loops + trailing things behind you
+[Lesson 5](https://github.com/teachthenet/Megsss/blob/master/lessons/5_infinite_while_loop2.md): Walls and Erasers (while loops)
 
-[Lesson 6](https://github.com/teachthenet/Megsss/blob/master/lessons/6_if_statements_rawinput.md): If statements + building toolkit
+[Lesson 6](https://github.com/teachthenet/Megsss/blob/master/lessons/6_code_a_pyramid.md): Pyramids
 
-[Lesson 7](https://github.com/teachthenet/Megsss/blob/master/lessons/7_for_loops_and_polling_chat.md): Polling chat logs, chat bots, and advanced building toolkit
+[Lesson 7](https://github.com/teachthenet/Megsss/blob/master/lessons/7_infinite_while_loop3.md): Arrows (while loops)
 
-[Lesson 8](https://github.com/teachthenet/Megsss/blob/master/lessons/8_pyramid_algorithm.md): Crafting our first algorithm, to be able to create a pyramid of any height instantly
+### Advanced Lessons
+
+[Advanced Lesson 1](https://github.com/teachthenet/Megsss/blob/master/lessons/bonus_1_if_statements_rawinput.md): If statements + building toolkit
+
+[Advanced Lesson 2](https://github.com/teachthenet/Megsss/blob/master/lessons/bonus_2_for_loops_and_polling_chat.md.md): Polling chat logs, chat bots, and advanced building toolkit
+
+[Advanced Lesson 3](https://github.com/teachthenet/Megsss/blob/master/lessons/bonus_3_pyramid_algorithm.md): Crafting our first algorithm, to be able to create a pyramid of any height instantly
+
+[Advanced Lesson 4](https://github.com/teachthenet/Megsss/blob/master/lessons/bonus_4_import_images.md): Crafting our first algorithm, to be able to create a pyramid of any height instantly
 
 ### Minecraft Docs
 - [pi version](http://www.stuffaboutcode.com/p/minecraft-api-reference.html) Has most of the basics of the python api
