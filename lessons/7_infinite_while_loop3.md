@@ -27,7 +27,7 @@ while True:
         response = rcon.send("execute @e[type=Arrow,score_ID_min=1,score_ID=1] ~ ~ ~ summon SnowMan")
         rcon.send("kill @e[type=Arrow,score_ID_min=1]")
 
-    except:
+    except rcon_mc.rcon.RconException:
     
         pass
 
@@ -60,7 +60,7 @@ while True:
         response = rcon.send("execute @e[type=Arrow,score_ID_min=2,score_ID=2] ~ ~ ~ summon SnowMan")
         rcon.send("kill @e[type=Arrow,score_ID_min=1]")
 
-    except:
+    except rcon_mc.rcon.RconException:
     
         pass
 
@@ -93,7 +93,7 @@ while True:
         response = rcon.send("execute @e[type=Arrow,score_ID_min=3,score_ID=3] ~ ~ ~ summon SnowMan")
         rcon.send("kill @e[type=Arrow,score_ID_min=1]")
 
-    except:
+    except rcon_mc.rcon.RconException:
     
         pass
 
@@ -103,9 +103,9 @@ You can stop an infinite loop with control+c in your terminal/shell.
 
 #### CHALLENGE
 
-- The script above called `Summon lightning bolt (incomplete)` isn't working properly! Instead of summoning a LightningBolt, it is summoning a Snowman! Fix it by updating the name and lore of the bow, and then changing `summon SnowMan` to `summon LightningBolt`.
+- The script above called `Summon lightning bolt (incomplete)` isn't working properly! Instead of summoning a LightningBolt, it is summoning a Snowman! Fix it by updating the name and lore of the bow, and then changing `summon SnowMan` to `summon LightningBolt`
 
-- The script above called `Summon explosion (incomplete)` isn't working properly! Instead of summoning an explosion, it is summoning a Snowman! Fix it by updating the name and lore of the bow, and then changing `summon SnowMan` to `summon Creeper ~ ~ ~ {ignited:1,Fuse:1}`.
+- The script above called `Summon explosion (incomplete)` isn't working properly! Instead of summoning an explosion, it is summoning a Snowman! Fix it by updating the name and lore of the bow, and then changing `summon SnowMan` to `summon Creeper ~ ~ ~ {ignited:1,Fuse:1}`
 
 
 

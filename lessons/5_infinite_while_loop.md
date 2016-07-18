@@ -56,8 +56,8 @@ while True:
     z = pos.z
     
     block = 38
-
     mc.setBlock(x, y, z, block)
+    
     time.sleep(0.1)
 ```
     

@@ -1,6 +1,6 @@
 # Lesson 6 notes
 
-### Building a maze with single pillar walls
+### Building pillars/walls by walking
 ```
 import time
 import mcpi.minecraft as minecraft
