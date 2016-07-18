@@ -1,4 +1,4 @@
-# Lesson 8 notes
+# Advanced Lesson 3
 
 #### Goal
 In this lesson, we're going to take the pyramid we created in lesson 4,

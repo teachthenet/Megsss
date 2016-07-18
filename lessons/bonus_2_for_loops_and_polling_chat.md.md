@@ -1,4 +1,4 @@
-# Lesson 7 notes
+# Advanced Lesson 2
 
 #### Goal
 
