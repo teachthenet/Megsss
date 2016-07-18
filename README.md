@@ -44,7 +44,7 @@ Choose between Local setup, or Cloud-based setup with Nitrous Quickstart!
 
 [Advanced Lesson 3](https://github.com/teachthenet/Megsss/blob/master/lessons/bonus_3_pyramid_algorithm.md): Crafting our first algorithm, to be able to create a pyramid of any height instantly
 
-[Advanced Lesson 4](https://github.com/teachthenet/Megsss/blob/master/lessons/bonus_4_import_images.md): Crafting our first algorithm, to be able to create a pyramid of any height instantly
+[Advanced Lesson 4](https://github.com/teachthenet/Megsss/blob/master/lessons/bonus_4_import_images.md): Import an image into minecraft as pixel art
 
 ### Minecraft Docs
 - [pi version](http://www.stuffaboutcode.com/p/minecraft-api-reference.html) Has most of the basics of the python api
