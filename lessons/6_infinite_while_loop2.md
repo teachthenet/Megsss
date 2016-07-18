@@ -1,4 +1,4 @@
-# Lesson 5 notes
+# Lesson 6 notes
 
 ### Building a maze with single pillar walls
 ```

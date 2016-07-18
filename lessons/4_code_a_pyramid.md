@@ -1,4 +1,4 @@
-# Lesson 6 notes
+# Lesson 4 notes
 
 #### Goal
 Make a pyramid with layers

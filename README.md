@@ -28,11 +28,11 @@ Choose between Local setup, or Cloud-based setup with Nitrous Quickstart!
 
 [Lesson 3](https://github.com/teachthenet/Megsss/blob/master/lessons/3_code_a_basic_building.md): Rectangular Buildings
 
-[Lesson 4](https://github.com/teachthenet/Megsss/blob/master/lessons/4_infinite_while_loop.md): Roller Coasters, Fire, and Flowers (while loops)
+[Lesson 4](https://github.com/teachthenet/Megsss/blob/master/lessons/4_code_a_pyramid.md): Pyramids
 
-[Lesson 5](https://github.com/teachthenet/Megsss/blob/master/lessons/5_infinite_while_loop2.md): Walls and Erasers (while loops)
+[Lesson 5](https://github.com/teachthenet/Megsss/blob/master/lessons/5_infinite_while_loop.md): Roller Coasters, Fire, and Flowers (while loops)
 
-[Lesson 6](https://github.com/teachthenet/Megsss/blob/master/lessons/6_code_a_pyramid.md): Pyramids
+[Lesson 6](https://github.com/teachthenet/Megsss/blob/master/lessons/6_infinite_while_loop2.md): Walls and Erasers (while loops)
 
 [Lesson 7](https://github.com/teachthenet/Megsss/blob/master/lessons/7_infinite_while_loop3.md): Arrows (while loops)
 
