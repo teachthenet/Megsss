@@ -13,9 +13,9 @@ while True:
     y = pos.y
     z = pos.z
     
-    x2 = x + 8
-    y2 = y + 8
-    z2 = z + 8
+    x2 = x + 4
+    y2 = y + 4
+    z2 = z + 4
     
     
     block = 0
