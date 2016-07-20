@@ -1,6 +1,6 @@
 # Lesson 6 notes
 
-### Building pillars/walls by walking
+### Building walls
 ```
 import time
 import mcpi.minecraft as minecraft
@@ -13,8 +13,37 @@ while True:
     y = pos.y
     z = pos.z + 1
     
+    x2 = x
+    y2 = y + 8
+    z2 = z
+    
+    
     block = 24
-    mc.setBlocks(x, y, z, x, y+8, z, block)
+    mc.setBlocks(x, y, z, x2, y2, z2, block)
+    
+    time.sleep(0.1)
+```
+
+### Eraser
+```
+import time
+import mcpi.minecraft as minecraft
+mc = minecraft.Minecraft.create(address="199.96.85.3", name="seanybob")
+
+while True:
+
+    pos = mc.player.getPos()
+    x = pos.x
+    y = pos.y
+    z = pos.z
+    
+    x2 = x + 8
+    y2 = y + 8
+    z2 = z + 8
+    
+    
+    block = 0
+    mc.setBlocks(x, y, z, x2, y2, z2, block)
     
     time.sleep(0.1)
 ```
@@ -23,4 +52,4 @@ You can stop an infinite loop with control+c in your terminal/shell.
 
 #### CHALLENGE
 
-- Modify the code above to build an eraser instead of a pillar. The eraser should clear out the space in front of you, turning it into air (so you can punch a hole through a mountain for a rail track, for example.)
+- Modify the Building walls code above to built a platform that follows you instead of a wall that follows you (flat instead of tall)
