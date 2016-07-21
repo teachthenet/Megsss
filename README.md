@@ -36,7 +36,7 @@ Choose between Local setup, or Cloud-based setup with Nitrous Quickstart!
 
 [Lesson 7](https://github.com/teachthenet/Megsss/blob/master/lessons/7_polling_chat.md): Minecraft Chat Commands
 
-[Lesson 7](https://github.com/teachthenet/Megsss/blob/master/lessons/8_infinite_while_loop3.md): Arrows (while loops)
+[Lesson 8](https://github.com/teachthenet/Megsss/blob/master/lessons/8_infinite_while_loop3.md): Arrows (while loops)
 
 ### Advanced Lessons
 
