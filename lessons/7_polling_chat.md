@@ -23,7 +23,7 @@ while True:
             if chatpost.message.lower() == "hi":
                 mc.postToChat("Hello right back at you!")
 
-            if chatpost.message.lower() == "where am I":
+            if chatpost.message.lower() == "where am i":
                 my_pos = mc.player.getPos()
                 mc.postToChat(my_player_name + " is at " + str(my_pos))
                 
@@ -62,7 +62,7 @@ while True:
                 
                 mc.setBlocks(x, y, z, x2, y2, z2, block_id)
                 
-            if "MY NEW COMMAND" in chatpost.message.lower():
+            if "my new command" in chatpost.message.lower():
                 mc.postToChat("This is where my code for my new command will go")
                 
                 
