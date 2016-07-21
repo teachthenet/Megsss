@@ -58,7 +58,7 @@ while True:
 
         rcon.send('scoreboard players set @e[type=Arrow] ID 2 {damage:3.5}') 
         response = rcon.send("execute @e[type=Arrow,score_ID_min=2,score_ID=2] ~ ~ ~ summon SnowMan")
-        rcon.send("kill @e[type=Arrow,score_ID_min=1]")
+        rcon.send("kill @e[type=Arrow,score_ID_min=2]")
 
     except rcon_mc.rcon.RconException:
     
@@ -91,7 +91,7 @@ while True:
 
         rcon.send('scoreboard players set @e[type=Arrow] ID 3 {damage:4.0}') 
         response = rcon.send("execute @e[type=Arrow,score_ID_min=3,score_ID=3] ~ ~ ~ summon SnowMan")
-        rcon.send("kill @e[type=Arrow,score_ID_min=1]")
+        rcon.send("kill @e[type=Arrow,score_ID_min=3]")
 
     except rcon_mc.rcon.RconException:
     
