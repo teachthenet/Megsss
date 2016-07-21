@@ -1,4 +1,4 @@
-# Lesson 7 notes
+# Lesson 8 notes
 
 ### Summon snowmen with a bow/arrow
 ```
