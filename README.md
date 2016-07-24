@@ -13,11 +13,12 @@ The Minecraft server is located at
 
 ### Setup
 
-Choose between Local setup, or Cloud-based setup with Nitrous Quickstart!
+Choose between Local setup, or Cloud-based setup with Nitrous Quickstart or c9!
 
-[Local Setup](https://github.com/teachthenet/Megsss/blob/master/setup.md): Get minecraft running, get connected to the server.
+- [Local Setup](https://github.com/teachthenet/Megsss/blob/master/setup.md): Get minecraft running, get connected to the server.
+- [![Cloud Setup with Nitrous Quickstart](https://nitrous-image-icons.s3.amazonaws.com/quickstart.svg)](https://www.nitrous.io/quickstart), free (requires verified email) and no credit card required.
+- [c9.io](https://c9.io), free, easy to start with and fantastic for new programmers, but requires credit card linked to account.
 
-[![Cloud Setup with Nitrous Quickstart](https://nitrous-image-icons.s3.amazonaws.com/quickstart.svg)](https://www.nitrous.io/quickstart)
 
 ### Basic Lessons
 
